@@ -11,7 +11,7 @@ import org.junit.Test;
  */
 public class AppTest {
 
-	@Ignore("Not implemented yet")
+	@Ignore("Not i   mplemented yet")
 	@Test
 	public void testShoudBePassed() {
 		assertTrue(true);
